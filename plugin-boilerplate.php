@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Boilerplate Test
  * Plugin URI:        https://github.com/andygagnon/plugin-boilerplate
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Test repo connection with wp-env, wp-pusher, etc.
  * Version:           1.0.0
  * Author:            Andre Gagnon
  * Author URI:        https://andregagnon.com
