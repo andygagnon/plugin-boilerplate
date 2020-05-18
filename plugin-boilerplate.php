@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Boilerplate Test
  * Plugin URI:        https://github.com/andygagnon/plugin-boilerplate
- * Description:       Test repo connection with wp-env, wp-pusher, etc.
+ * Description:       Test repo connection with wp-env node tool, wppusher plugin, etc.
  * Version:           1.0.1
  * Author:            Andre Gagnon
  * Author URI:        https://andregagnon.com
